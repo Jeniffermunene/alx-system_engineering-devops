@@ -6,3 +6,4 @@ this is my firstbproject
 =======
 shell navigation is cool
 >>>>>>> origin/main
+Readme
