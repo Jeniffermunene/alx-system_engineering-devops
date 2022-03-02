@@ -1,7 +1,10 @@
 #!/bin/bash
 pwd
+<<<<<<< HEAD
 :wq
 wq
 :wq
 
 pwd
+=======
+>>>>>>> 7b5acc36098305c99fccdd3c32865d06dcf1b637
